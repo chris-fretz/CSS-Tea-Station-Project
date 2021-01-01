@@ -14,3 +14,4 @@ navBtn.addEventListener("click", () => {
 navClose.addEventListener("click", () => {
   navbar.classList.remove("showNav");
 });
+
